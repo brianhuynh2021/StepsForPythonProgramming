@@ -4,3 +4,4 @@ Step for doing a Flask python programming
 - Step 2: Activate virtual env by: source virtual_env/bin/activate  >>> hit Enter
 - Step 3: pip install flask
 - Step 4: python import flask
+- Step 5: create requirements.txt file by: pip freeze > requirements.txt
